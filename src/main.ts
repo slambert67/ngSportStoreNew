@@ -1,3 +1,7 @@
+/*
+imports top level module and bootstraps from this
+ie. starts the application
+*/
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
